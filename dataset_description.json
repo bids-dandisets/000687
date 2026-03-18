@@ -1,0 +1,21 @@
+{
+    "Name": "similarity-weighted interleaved learning",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "High-density silicon probe recordings from dorsal and intermediate CA1, primary visual cortex, and antero-lateral visual cortex in mice while they are exploring VR environments with different levels of similarity. The experiment was aimed at studying the content of replay across superficial and deep layers of visual cortex. ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Saxena, Rajat",
+        "Shobe, Justin",
+        "McNaughton, Bruce"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
